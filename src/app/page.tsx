@@ -1,6 +1,5 @@
 
 import Image from "next/image";
-import Icon from '@/assets/icon.png'
 import iPhoneMockup from '@/assets/iPhoneMockup.png'
 import AppleBadge from '@/assets/apple.svg'
 import GoogleBadge from '@/assets/google.svg'
